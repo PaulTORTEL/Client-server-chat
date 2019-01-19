@@ -1,3 +1,5 @@
+Vincent COURSAC & Paul TORTEL
+
 To use our chat:
 1/ Start the server
 	a/ Get into "ServerChat" folder
