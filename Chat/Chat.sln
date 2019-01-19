@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat", "Chat\Chat.csproj", "{32EBE8F0-60E0-4306-AF2A-FDFCAB73D9FD}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ChatPackets", "..\ChatPackets\ChatPackets\ChatPackets.shproj", "{B0FDD91E-326D-4E60-B230-2C96EEC2D3D8}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\ChatPackets\ChatPackets\ChatPackets.projitems*{32ebe8f0-60e0-4306-af2a-fdfcab73d9fd}*SharedItemsImports = 4
+		..\ChatPackets\ChatPackets\ChatPackets.projitems*{b0fdd91e-326d-4e60-b230-2c96eec2d3d8}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32EBE8F0-60E0-4306-AF2A-FDFCAB73D9FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32EBE8F0-60E0-4306-AF2A-FDFCAB73D9FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32EBE8F0-60E0-4306-AF2A-FDFCAB73D9FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32EBE8F0-60E0-4306-AF2A-FDFCAB73D9FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

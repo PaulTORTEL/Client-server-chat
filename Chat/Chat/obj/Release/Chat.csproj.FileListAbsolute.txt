@@ -1,0 +1,9 @@
+D:\Paul\Documents\Travail\M1\C#\Projet\projet_csharp\Chat\Chat\bin\Release\Chat.exe.config
+D:\Paul\Documents\Travail\M1\C#\Projet\projet_csharp\Chat\Chat\bin\Release\Chat.exe
+D:\Paul\Documents\Travail\M1\C#\Projet\projet_csharp\Chat\Chat\bin\Release\Chat.pdb
+D:\Paul\Documents\Travail\M1\C#\Projet\projet_csharp\Chat\Chat\obj\Release\Chat.csprojResolveAssemblyReference.cache
+D:\Paul\Documents\Travail\M1\C#\Projet\projet_csharp\Chat\Chat\obj\Release\Chat.LoginForm.resources
+D:\Paul\Documents\Travail\M1\C#\Projet\projet_csharp\Chat\Chat\obj\Release\Chat.Properties.Resources.resources
+D:\Paul\Documents\Travail\M1\C#\Projet\projet_csharp\Chat\Chat\obj\Release\Chat.csproj.GenerateResource.Cache
+D:\Paul\Documents\Travail\M1\C#\Projet\projet_csharp\Chat\Chat\obj\Release\Chat.exe
+D:\Paul\Documents\Travail\M1\C#\Projet\projet_csharp\Chat\Chat\obj\Release\Chat.pdb
