@@ -1,0 +1,5 @@
+D:\Paul\Documents\Travail\M1\C#\Projet\projet_csharp\ServerChat\ServerChat\bin\Release\ServerChat.exe.config
+D:\Paul\Documents\Travail\M1\C#\Projet\projet_csharp\ServerChat\ServerChat\bin\Release\ServerChat.exe
+D:\Paul\Documents\Travail\M1\C#\Projet\projet_csharp\ServerChat\ServerChat\bin\Release\ServerChat.pdb
+D:\Paul\Documents\Travail\M1\C#\Projet\projet_csharp\ServerChat\ServerChat\obj\Release\ServerChat.exe
+D:\Paul\Documents\Travail\M1\C#\Projet\projet_csharp\ServerChat\ServerChat\obj\Release\ServerChat.pdb

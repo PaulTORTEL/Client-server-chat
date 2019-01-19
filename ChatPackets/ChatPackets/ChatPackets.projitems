@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>b0fdd91e-326d-4e60-b230-2c96eec2d3d8</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>ChatPackets</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)channels\CreateChannelPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)channels\CreateChannelResponsePacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)channels\DeleteChannelPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)channels\DeleteChannelResponsePacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)channels\GetChannelPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)channels\GetChannelResponsePacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)channels\MessagePacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)channels\NewMessagePacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)channels\RenameChannelPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)channels\RenameChannelResponsePacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CustomBinder.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)login\LoginPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)login\LoginResponsePacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)login\LoginTokenPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)login\LoginTokenResponsePacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Packet.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PresencePacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)register\RegisterResponsePacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)register\RegisterPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WelcomePacket.cs" />
+  </ItemGroup>
+</Project>
