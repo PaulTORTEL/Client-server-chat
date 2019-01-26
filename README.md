@@ -1,5 +1,11 @@
-Vincent COURSAC & Paul TORTEL
+# Client-Server chat
+Developed in C#, this repository gathers the implementation of 2 parties: the client and the server.
+The server handles the distribution of the messages sent on the user channels to all the connected users.
+The client allows the user to create and join channels to chat with other users.
 
+## Developed by Vincent COURSAC & Paul TORTEL
+
+### Notes:
 To use our chat:
 1/ Start the server
 	a/ Get into "ServerChat" folder
