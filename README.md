@@ -3,7 +3,7 @@ Developed in C#, this repository gathers the implementation of 2 parties: the cl
 The server handles the distribution of the messages sent on the user channels to all the connected users.
 The client allows the user to create and join channels to chat with other users.
 
-### Developed in October 2017 - November 2017 by Vincent COURSAC & Paul TORTEL
+### Developed from October 2017 to November 2017 by Vincent COURSAC & Paul TORTEL
 
 ### Notes:
 To use our chat:
